@@ -2,7 +2,7 @@ vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO vreitenbach/MeasFlow
     REF "v${VERSION}"
-    SHA512 f93c77a30c8a6ec44af87cdbbd06df7b6b5fe008d996c212c7388b76a632d995ec4bbbb7081ff30b6c71af4d546bd99872dca4f93eefa2da544c2cb1d3cbb24c
+    SHA512 e7ae3d03161b8c833b878a3dc7de68ac1d7cad859ba2621b4c088081d0d4a7ab7c1939d27428a8a25d9a19b5d00141e730bebf5ba89c4ef09617bebba78c45ad
     HEAD_REF main
 )
 
